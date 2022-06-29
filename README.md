@@ -1,2 +1,2 @@
-# Recriando-a-pagina-inicial-do-Instagram
+# Recriando a pagina inicial do Instagram
 Como recriar a Página inicial do instagram.
